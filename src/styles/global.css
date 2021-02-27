@@ -1,0 +1,12 @@
+.ant-layout {
+  background-color: ghostwhite;
+}
+
+.ant-card-meta > .ant-card-meta-detail > .ant-card-meta-title {
+  height: 60px;
+  white-space: normal;
+}
+
+.infinite-container {
+  overflow: auto;
+}
